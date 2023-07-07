@@ -1,0 +1,39 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Ahmad",
+      "area": "Kano",
+      "creditlimit":1000
+    },
+
+    {
+      "id": 2,
+      "name": "Ibrahim",
+      "area": "Kano",
+      "creditlimit":1000
+    },
+
+    {
+      "id": 3,
+      "name": "Dauda",
+      "area": "Kano",
+      "creditlimit":1000
+    },
+
+    {
+      "id": 4,
+      "name": "Isah",
+      "area": "Kano",
+      "creditlimit":1000
+    },
+
+    {
+      "id": 5,
+      "name": "Musa",
+      "area": "Kano",
+      "creditlimit":1000
+    }
+  ]
+ 
+}
